@@ -27,8 +27,8 @@ Thumbs.db
 *.log
 
 # Model and data files
-*.pkl
-*.joblib
+# *.pkl
+# *.joblib
 *.h5
 *.sqlite3
 
